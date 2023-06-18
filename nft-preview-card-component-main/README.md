@@ -1,0 +1,1 @@
+this is a design of - NFT preview card component
